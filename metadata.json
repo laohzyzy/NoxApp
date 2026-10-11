@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp",
+  "description": "WhatsApp clone con chats en tiempo real, estados e historias, llamadas y videollamadas, mensajes de voz, grupos, reacciones y fotos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
